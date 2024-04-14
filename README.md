@@ -9,17 +9,22 @@
   ### 👉  <a href="mailto:illu140411@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a> 👉   <a href="https://open.kakao.com/me/illu1996"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
 </div><br>
 
-<div align="center">
-  
 ## 📆 Time Line
-<code>2023.01</code> ~ <code>2023.12</code> &nbsp; 삼성 청년 SW 아카데미   
-<code>2020.03</code> ~ <code>2022.06</code> &nbsp; 국가의 부름
-<code>2015.03</code> ~ <code>2020.02</code> &nbsp; 중앙대학교 생명공학과 학사과정
+
+<div align="center">
+
+|기 간|소 속|
+|---|---|
+| <code>2023.01</code> ~ <code>2023.12</code> | 삼성 청년 SW 아카데미 |
+| <code>2020.03</code> ~ <code>2022.06</code> | 국가의 부름 |
+| <code>2015.03</code> ~ <code>2020.02</code> | 중앙대학교 생명공학과 학사과정 |
+
 </div><br>
 
+## 🔨 Once I've used 
+
 <div align="center">
 
-  ## 🔨 Once I've used 
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?&style=flat&logo=react&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?&style=flat&logo=html5&logoColor=white"/>
@@ -42,7 +47,7 @@
   <img alt="visualstudiocode" src="https://img.shields.io/badge/visualstudiocode-007ACC?&style=flat&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-## 🔨 project
+## 📁 project
 
 에브리 스쿨
 
