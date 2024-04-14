@@ -13,7 +13,7 @@
   
 ## 📆 Time Line
 <code>2023.01</code> ~ <code>2023.12</code> &nbsp; 삼성 청년 SW 아카데미   
-<code>2020.03</code> ~ <code>2022.06/code> &nbsp; 국가의 부름
+<code>2020.03</code> ~ <code>2022.06</code> &nbsp; 국가의 부름
 <code>2015.03</code> ~ <code>2020.02</code> &nbsp; 중앙대학교 생명공학과 학사과정
 </div><br>
 
